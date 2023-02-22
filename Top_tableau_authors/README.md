@@ -12,10 +12,15 @@ Tableau Desktop
 
 ## Extracting Data using APIs (https://github.com/wjsutton/tableau_public_api).
 
-1 Retrieving VOTD Data (it contains only Viz Of The Day data)
+1 Retrieving VOTD Data (it contains only Viz Of The Day data).
 2 Get the list of Authors having at least 10 VOTD.
-3 Get all vizs for those authors
+3 Get all vizs for those authors.
 4 Get extra infor for each viz.
 5 Join all data for each authors having 10 or more VOTD and store it in a CSV file. 
 6 Connect the data source (CSV file) to the Tableau workbook.
 7 Visualize it using Tableau.
+
+## Code: [Code](https://github.com/jigarpatel931/Python-Projects/blob/main/Top_tableau_authors/Top%20authors_tableau.ipynb)
+
+## Tableau:
+<a href="https://public.tableau.com/app/profile/jigarpatel136/viz/TopVizExperts10VOTD/Dashboard" target="_blank"><img align="center" src="https://github.com/jigarpatel931/Python-Projects/blob/main/Top_tableau_authors/Top_Authors_viz.png" alt="Tableau Report" height="200" width="300" /></a>
