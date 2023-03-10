@@ -11,7 +11,7 @@ The purpose of this analysis is to identify groups of customers with similar cha
 
 
 ### Approach:
-- T also used the StandardScaler module from Scikit-Learn to scale the data to have zero mean and unit variance, the LabelEncoder module to encode categorical features as integers, and the silhouette_score function to evaluate the quality of clusters based on their cohesion and separation.
+- I also used the StandardScaler module from Scikit-Learn to scale the data to have zero mean and unit variance, the LabelEncoder module to encode categorical features as integers, and the silhouette_score function to evaluate the quality of clusters based on their cohesion and separation.
 The cluster analysis results and insights can be found in the accompanying Jupyter Notebook file named "Cluster analysis of telco_data.ipynb".
 ## Code: [Code](https://github.com/jigarpatel931/Python-Projects/blob/main/Cluster%20analysis/Cluster%20analysis%20of%20telco_data.ipynb)
 
